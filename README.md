@@ -1,1 +1,1 @@
-# game-simulation
+zombie-territory-game
